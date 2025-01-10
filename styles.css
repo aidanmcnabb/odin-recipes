@@ -1,0 +1,72 @@
+.allign-center {
+
+    text-align: center;
+}
+
+body {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1) );
+}
+
+ul {
+
+    list-style-position: inside;
+}
+
+ol {
+
+    list-style-position: inside;
+}
+
+#title {
+
+    font-family: monospace;
+    background-color: whitesmoke;
+    display: inline flex;
+    padding: 5px;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+#links {
+
+    font-family: monospace;
+    background-color: whitesmoke;
+    display: inline flex;
+    padding: 5px;
+    font-size: 18px;
+
+}
+
+#box {
+
+    width: 3000px;
+    height: 500px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#p1 {
+
+    background-color: whitesmoke;
+    display: inline-flex;
+    font-family: monospace;
+    font-weight: 500;
+    padding: 5px;
+}
+
+#text1 {
+
+    color: red;
+    background-color: whitesmoke;
+    display: inline-flex;
+    padding: 5px;
+    display: inline-table;
+}
+
+#body1 {
+
+    background-image: url(img/old-man.jpg)
+}
